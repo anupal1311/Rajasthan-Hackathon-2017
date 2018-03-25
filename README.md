@@ -1,0 +1,2 @@
+# Rajasthan-Hackathon-2017
+An android application was developed using which a patient can make an appointment in nearby hospitals and pay through E- Mitra. It could be a part of BHAMASHAH YOJNA (online appointment in hospitals) of Rajasthan Government. Majorly involvement in the back end part of the application for data storage and server communication, integrated APIs for making the payment via E- Mitra.
